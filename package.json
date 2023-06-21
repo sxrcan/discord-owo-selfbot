@@ -1,0 +1,26 @@
+{
+  "name": "sercanowoselfbot",
+  "version": "0.0.1",
+  "description": "sercancim",
+  "main": "sercan.js",
+  "scripts": {
+    "start": "node sercan.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "discord.js-selfbot": "^12.0.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "node-fetch": "^3.3.1",
+    "tesseract.js": "^4.0.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
